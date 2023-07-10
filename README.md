@@ -20,7 +20,7 @@ It is designed to mimic real-world cricket matches and statistics.
 
 ## Demo
 
-Insert gif or link to demo
+Video link - https://youtu.be/04hJU1o16pE
 
 ## Run Locally
 
